@@ -10,6 +10,7 @@
     """,
 
     'author': "Odolution",
+    'license': 'OPL-1',
     'category': 'Project',
     'version': '16.1',
     'depends': ['project'],
