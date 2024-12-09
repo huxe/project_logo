@@ -10,10 +10,12 @@
     """,
 
     'author': "Odolution",
+    'license': 'LGPL-3',
+    'price': 10.00,
+    'currency': "USD",
     'category': 'Project',
     'version': '16.1',
     'depends': ['project'],
-    'license': 'OPL-1',
     'data': [
         'views/project_project.xml',
     ],
