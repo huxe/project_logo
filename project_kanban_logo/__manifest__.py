@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Project Logo",
+    'name': "Images in project kanban view",
 
     'summary': """
         Add company logo in project Kanban view""",
